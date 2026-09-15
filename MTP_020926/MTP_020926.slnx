@@ -1,4 +1,9 @@
 ﻿<Solution>
+  <Project Path="OpenXR.Samples.Graphics.csproj" />
+  <Project Path="OpenXRSampleStarterAssets.csproj" />
+  <Project Path="ControllerSample.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="OpenXRTrackingOriginSample.csproj" />
+  <Project Path="CustomCompositionLayerFeature.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>
